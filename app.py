@@ -34,7 +34,7 @@ Download or view the slides:
 
 st.link_button(
     "📄 Download Talk Slides (PDF)",
-    "https://raw.githubusercontent.com/kode2go/rsafrica_2026/main/Developing AI Guidelines for Infrastructure-as-a-Service Platforms_v3.pdf"
+    "https://raw.githubusercontent.com/kode2go/pyconza_2026/main/Python, AI Agents, and the Future of Infrastructure Automation_v2.pdf.pdf"
     
 )
 
