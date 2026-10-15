@@ -34,7 +34,7 @@ Download or view the slides:
 
 st.link_button(
     "📄 Download Talk Slides (PDF)",
-    "https://raw.githubusercontent.com/kode2go/pyconza_2026/main/Python, AI Agents, and the Future of Infrastructure Automation_v2.pdf.pdf"
+    "https://raw.githubusercontent.com/kode2go/pyconza_2026/main/Python, AI Agents, and the Future of Infrastructure Automation_v2.pdf"
     
 )
 
