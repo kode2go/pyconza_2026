@@ -28,7 +28,7 @@ st.divider()
 st.header("Talk Slides")
 st.markdown(
     """
-Download or view the slides from the IndabaX talk:
+Download or view the slides:
 """
 )
 
@@ -46,7 +46,7 @@ st.markdown(
 To gain local cloud access - get VM access!
 """
 )
-st.link_button("Visit CHPC", "https://sebowausers.chpc.ac.za")
+st.link_button("Link", "https://sebowausers.chpc.ac.za")
 st.divider()
 
 st.header("Try VuthaStack")
